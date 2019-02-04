@@ -7,6 +7,21 @@ SQL folder contains the sql scripts to create, insert and delete data.
 Project details:
 Entities and the respective task performed by them.
 
+Project deals with the development of Cars Service Management System. Application deals with following components - <br>
+- Role based access to the task list <br>
+- Car registration <br>
+- Schedule / Reschedule service and see Service History <br>
+- Inventory management of the tools required for the service<br>
+- Tools ordering<br>
+- Notifications in case of delay in order <br>
+- Two services offered - Repair and Maintenance<br>
+- Payroll management <br>
+- View Profile and Update Profile<br>
+- Add New Employee<br>
+
+Tools and Technology - Java, Oracle sql database <br>
+DBMS features used - DDL, DML, Triggers, Procedures <br>
+
 *Customer*
 
 The account for customers shall be created from the application. When logged in as a customer,
